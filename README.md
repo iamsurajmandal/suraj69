@@ -1,4 +1,5 @@
 ### Hi there, How is it going ? 👋
+Most recently I was a Software Developer Engineer - 1  at [Diatoz](https://diatoz.com/).
 
 
 Here are some ideas to get you started:
@@ -7,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on DSA
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about at LinkedIn (https://www.linkedin.com/in/iamsurajmandal/)
+- 💬 Ask me about at Node js, 
 - 📫 How to reach me: surajmandal.official@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Thunder begin
