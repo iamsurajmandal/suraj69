@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about  Node js, React Js, Java Script
 - 📫 How to reach me: surajmandal.official@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Thunder begin
 <a href="https://github.com/suraj69">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj69&show_icons=true&line_height=27&count_private=true&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
