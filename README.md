@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Thunder begin
 <a href="https://github.com/suraj69">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj69&show_icons=true&line_height=27&count_private=false&show_icons=true&theme=tokyonight" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj69&line_height=27&count_private=true&show_icons=true&theme=tokyonight" alt="Martin's GitHub Stats" />
 </a>
 <br/>
 <br/>
