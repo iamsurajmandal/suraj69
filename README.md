@@ -1,5 +1,5 @@
 ### Hi there, How is it going ? 👋
-Most recently I was a Software Developer Engineer - 1  at [Diatoz](https://diatoz.com/).
+Most recently I was a Software Developer Engineer - 3  at [Ticketmaster](https://ticketmaster.com/).
 
 
 Here are some ideas to get you started:
