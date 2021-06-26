@@ -2,7 +2,7 @@
 Most recently I was a Software  Engineer - 3  at [Ticketmaster](https://ticketmaster.com/).
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you know me:
 
 - 🔭 I’m currently working with Ticketmaster
 - 🌱 I’m currently learning AWS
