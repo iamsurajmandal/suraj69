@@ -4,11 +4,11 @@ Most recently I was a Software Developer Engineer - 1  at [Diatoz](https://diato
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with Diatoz
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working with Ticketmaster
+- 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on DSA
 - 🤔 I’m looking for help with DSA
-- 💬 Ask me about  Node js, React Js, Java Script
+- 💬 Ask me about  Node js, React Js, Java Script, AWS Lambda, gateway, eventbridge etc.
 - 📫 How to reach me: surajmandal.official@gmail.com
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: Thunder begin
